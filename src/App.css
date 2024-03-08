@@ -1,0 +1,24 @@
+.card {
+  width: 22vw ;
+  align-items: center;
+  display: flex;
+  border: 1px solid grey;
+  flex-direction: column;
+  padding: 7px;
+  border-radius: 2%;
+  box-shadow: gray 3px 3px 6px;
+  
+}
+
+.pokemon {
+  border-radius: 2%;
+  box-shadow: grey 3px 3px 6px;
+
+}
+
+.desc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+
+}
